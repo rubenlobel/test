@@ -31,6 +31,6 @@ for key in ticker_list.keys():
 
 returns['Returns']=temp
 returns.plot(kind='bar')
-
+#add comment here
 #import matplotlib.pyplot as plt
 #plt.show()
